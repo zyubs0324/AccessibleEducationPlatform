@@ -1,0 +1,11 @@
+{
+  "title": "proto_001",
+  "description": "통합 점자교육 정보 제공과 신청, 튜터 지원, 학습자료 관리, 회원 커뮤니티, 관리자 CMS를 포함한 시각장애 아동 교육 지원 플랫폼입니다.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
